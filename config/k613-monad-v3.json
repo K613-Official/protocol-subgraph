@@ -1,9 +1,9 @@
 {
-    "network": "arbitrum-sepolia",
-    "AaveOracleAddress": "0x4D82d72AF7ee91b5c16cA3A4C85585e9791f9Cc0",
-    "AaveOracleStartBlock": 244793879,
-    "PoolAddressesProviderRegistryAddress": "0x79dfff4ed0dcc1012d7631f9043d6c3de82f62ed",
-    "PoolAddressesProviderRegistryStartBlock": 244793804,
-    "RewardsControllerAddress": "0x68884bc5ca880c72c6d7b17b90763e5ca5726f2e",
-    "RewardsControllerStartBlock": 244793879
+    "network": "monad",
+    "AaveOracleAddress": "0x0dFfb00A751a74ac8CF8B022Bf86b1ECd9D7ae6F",
+    "AaveOracleStartBlock": 67007380,
+    "PoolAddressesProviderRegistryAddress": "0xcf89bbc0d38fa271f39df287eac06a9d925c039b",
+    "PoolAddressesProviderRegistryStartBlock": 67007366,
+    "RewardsControllerAddress": "0x4daF0EfC0E149B13b6c115916d643524E279DDEa",
+    "RewardsControllerStartBlock": 67007380
 }
